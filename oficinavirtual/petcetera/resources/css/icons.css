@@ -1,0 +1,69 @@
+.add{
+    background-image: url( ../images/icons/add.png ) !important;
+}	 
+.edit{
+    background-image: url( ../images/icons/edit.png ) !important;
+}
+.delete{
+    background-image: url( ../images/icons/delete.png ) !important;
+}
+	 
+.admon16{
+    background-image: url( ../images/icons/admon_icon16.png ) !important;
+}
+.gestion16 {
+    background-image: url( ../images/icons/gestion_icon16.png ) !important;
+}
+.ventas16 {
+    background-image: url( ../images/icons/ventas_icon16.png ) !important;
+}
+.compras16 {
+    background-image: url( ../images/icons/compras_icon16.png ) !important;
+    
+}
+.salir16 {
+    background-image: url( ../images/icons/salir_icon16.png ) !important;
+}
+ .logoEmexica16 {
+    background-image: url( ../images/icons/emexica_icon16.png ) !important;
+  
+}
+
+ .home {
+    background-image: url( ../images/icons/home.png ) !important;
+  
+}
+ .pedidos {
+    background-image: url( ../images/icons/orders.png ) !important;
+  
+}
+ .clientes {
+    background-image: url( ../images/icons/clients.png ) !important;
+  
+}
+ .catalogo {
+    background-image: url( ../images/icons/catalogo.png ) !important;
+  
+}
+
+ .reportes {
+    background-image: url( ../images/icons/reports.png ) !important;
+  
+}
+
+ .refresh {
+    background-image: url( ../images/icons/refresh.png ) !important;
+  
+}
+.perfil {
+    background-image: url( ../images/icons/perfil.png ) !important;
+  
+}
+.facturacion {
+    background-image: url( ../images/icons/facturacion.png ) !important;
+  
+}
+.envio {
+    background-image: url( ../images/icons/envio.png ) !important;
+ 
+}
