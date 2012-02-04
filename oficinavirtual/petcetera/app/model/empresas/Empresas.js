@@ -1,6 +1,6 @@
 Ext.define('Iphoenix.model.empresas.Empresas', {
 	extend : 'Ext.data.Model',
-	idProperty : 'id', 
+	idProperty : 'id', a
 	fields :[
 			{name : 'id', type : 'int'},
 			{name : 'vendedor', type : 'string'},
